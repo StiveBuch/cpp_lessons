@@ -1,4 +1,4 @@
-# cpp_lessons
+# Задания
 
 Создайте репозиторий по [руководству пр созданию репозитория](https://github.com/StiveBuch/cpp_lessons/blob/main/git_ex_repo.md)
 
