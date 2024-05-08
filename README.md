@@ -4,7 +4,7 @@
 
 Склонируйте репозиторий по [этому руководству](https://github.com/StiveBuch/cpp_lessons/blob/main/git_ex_clone_1.md) и посмотрите там ветки через `git log` и через `gitk`
 
-# Словари
+# Термины и определения
 
 Посмотрите [список определений по git](https://github.com/StiveBuch/cpp_lessons/blob/main/terms_git.md)
 
