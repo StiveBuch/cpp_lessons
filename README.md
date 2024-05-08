@@ -4,6 +4,8 @@
 
 Склонируйте репозиторий по [этому руководству](https://github.com/StiveBuch/cpp_lessons/blob/main/git_ex_clone_1.md) и посмотрите там ветки через `git log` и через `gitk`
 
+# Словари
+
 Посмотрите [список определений по git](https://github.com/StiveBuch/cpp_lessons/blob/main/terms_git.md)
 
 Посмотрите [словарь из 100 частотных терминов](https://github.com/StiveBuch/cpp_lessons/blob/main/terms_programming_100.md) в программировании
